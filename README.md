@@ -1,7 +1,7 @@
 <center>
 If you like my tools, please support me.<br>
 <br>
-This is remake of abandoned program made in AutoIT from here: <a target="_blank" href="http://www.7ztm.de/">http://www.7ztm.de/</a><br>
+This is remake of abandoned program made in AutoIT from there: <a target="_blank" href="http://www.7ztm.de/">http://www.7ztm.de/</a><br>
 Original author wrote something about upcoming update in 2011, but it not happen until today.<br>
 <br>
 Main program window:<br>
@@ -19,9 +19,11 @@ Added preview of file-types changes in Explorer window.<br>
 Tested with 7-ZIP versions of: 15.05, 16.04, 19.00 and 20.00 Alpha, all of it works fine.<br>
 <br>
 Original program was updated for 7-Zip version 9.23 alpha, quote: "7zTM 2.1.1 Hotfix, a special version for 7-Zip 9.23 alpha".<br>
-But, for example, it does not support "squashfs" file-type.<br>
+But, for example, it does not support the "squashfs" file-type.<br>
 <br>
-I removed the command line program written in .Net framework, my version don't need it anymore. Now it works from Windows XP until Windows 10 without the requirements of installing .NET framework.<br>
+I removed the command-line program written in .Net framework, my version don't need it anymore. Now it works from Windows XP until Windows 10 without the requirements of installing .NET framework.<br>
+<br>
+(YYYY-MM-DD) 2021-11-02; Added the <b>Fluent</b> & <b>Windows 10</b> FileType by <b>Muhammad Hussein Ammari</b> from there: <a target="_blank" href="https://github.com/Mr4Mike4/7-Zip-Filetype-Theme">https://github.com/Mr4Mike4/7-Zip-Filetype-Theme</a><br>
 <br>
 <B>*** All programs created in AutoIT are detected as dangerous (viruses, malware, etc.), so you can trust me or don't download the program at all. ***</B>
 </center>
