@@ -1,3 +1,4 @@
+# 7-Zip Theme Manager (remake of version 2.1)
 <center>
 If you like my tools, please support me.<br>
 <br>
