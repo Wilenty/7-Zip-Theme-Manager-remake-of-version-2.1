@@ -6,17 +6,17 @@ Original author wrote something about upcoming update in 2011, but it not happen
 <br>
 Main program window:<br>
 <br>
-<img src="https://i.imgur.com/3gfwg8A.png" alt="Main program window"><br>
+<img src="https://user-images.githubusercontent.com/61757638/140874313-55909961-c16c-4f78-9edd-a2f0ac4093e5.png" alt="Main program window"><br>
 <br>
 If you want to change the icons for portable 7-ZIP, please press the "no" on this window and select portable 7-ZIP location.<br>
 <br>
 <img src="https://i.imgur.com/a8LRZ0W.png" alt="Select installed or portable version of 7-ZIP"><br>
 <br>
-Added preview of file-types changes in Explorer window.<br>
+Importing theme from 7-ZIP (Installed/Portable).<br>
 <br>
-<img src="https://i.imgur.com/Aa4Hifu.png" alt="File-types preview in Explorer window"><br>
+<img src="https://user-images.githubusercontent.com/61757638/140874652-1ded76da-c09a-4820-9ce7-e37a94e56638.png" alt="Importing theme from 7-ZIP (Installed/Portable)"><br>
 <br>
-Tested with 7-ZIP versions of: 15.05, 16.04, 19.00 and 20.00 Alpha, all of it works fine.<br>
+Tested with 7-ZIP versions of: 15.05, 16.04, 19.00, 20.00 Alpha and 21.04 Beta, all of it works fine.<br>
 <br>
 Original program was updated for 7-Zip version 9.23 alpha, quote: "7zTM 2.1.1 Hotfix, a special version for 7-Zip 9.23 alpha".<br>
 But, for example, it does not support the "squashfs" file-type.<br>
