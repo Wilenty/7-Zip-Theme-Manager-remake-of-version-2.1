@@ -1,6 +1,6 @@
 # 7-Zip Theme Manager (remake of version 2.1)
 <center>
-Project Abandoned, successor: https://github.com/Wilenty/7zTC-7-ZIP-Theme-Changer
+<b>Project Abandoned, successor: https://github.com/Wilenty/7zTC-7-ZIP-Theme-Changer</b>
 <br><br>
 If you want the source code of this program with all of my modifications, for example to continue the development, you can buy it for $1000 on my Patreon: https://www.patreon.com/posts/63186280
 You will have your own copy of this source code and you can do whatever you want with it. If first person will pay $1000, I will remove below text about exclusivity of this source code.
