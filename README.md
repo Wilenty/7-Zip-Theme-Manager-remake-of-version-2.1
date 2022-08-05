@@ -1,3 +1,4 @@
+
 # 7-Zip Theme Manager (remake of version 2.1)
 <center>
 <b>Project Abandoned, successor: https://github.com/Wilenty/7zTC-7-ZIP-Theme-Changer</b>
