@@ -2,10 +2,10 @@
 <center>
 <b>Project Abandoned, successor: https://github.com/Wilenty/7zTC-7-ZIP-Theme-Changer</b>
 <br><br>
-If you want the source code of this program with all of my modifications, for example to continue the development, you can buy it for $1000 on my Patreon: https://www.patreon.com/posts/63186280
+<s>If you want the source code of this program with all of my modifications, for example to continue the development, you can buy it for $1000 on my Patreon: https://www.patreon.com/posts/63186280
 You will have your own copy of this source code and you can do whatever you want with it. If first person will pay $1000, I will remove below text about exclusivity of this source code.
 <br>
-But, if you want the source code exclusively for yourself, please pay double (i.e. $2000) - I will stops sharing and selling the source code for anyone else. If first person will pay the $2000, I will delete above message on Patreon, remove this message and I will archive this repository. <br>
+But, if you want the source code exclusively for yourself, please pay double (i.e. $2000) - I will stops sharing and selling the source code for anyone else. If first person will pay the $2000, I will delete above message on Patreon, remove this message and I will archive this repository. <br></s>
 <br>---<br><br>
 This is remake of abandoned program made in AutoIT from there: <a target="_blank" href="http://www.7ztm.de/">http://www.7ztm.de/</a><br>
 Original author wrote something about upcoming update in 2011, but it not happen until today.<br>
